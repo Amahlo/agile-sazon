@@ -1,3 +1,5 @@
+# Módulo: [Despensa virtual y sugerencias]
+
 # Módulo: Despensa virtual y sugerencias
 # Módulo: [Despensa virtual y sugerencias]
 
@@ -9,6 +11,10 @@
 
 ## 👨‍💻 Integrantes del Equipo
 
+### [Deerly Jharik Hernandez Misas] - [Desarrollador]
+- **Experiencia:** Estudiante de asistente en desarrollo de software
+- **Capacidades:** Trabajar en equipo, dispocision para aprender.
+- **Contacto / Redes:** 3146972576 / Ig: jharik_misas
 ### [Verónica Ciro Naranjo] - [Desarrollador]
 - **Experiencia:Estudiante de asistente en desarrollo de software** ...
 - **Capacidades: disposición para aprender** ...
