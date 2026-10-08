@@ -27,6 +27,6 @@
 ### [Catalina Lombana Osorio] - [desarrollador]
 - **Experiencia:** estudiante de asistente de desarrollo de software.
 - **Capacidades:** trabajo en equipo, trabajo bajo presión, disposición para aprender.
-- **Contacto / Redes:** celular: 3238277238
+- **Contacto / Redes:** celular: 3238277238.
                         instagram: catalombanao
 
