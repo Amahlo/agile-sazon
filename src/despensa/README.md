@@ -1,3 +1,4 @@
+# Módulo: Despensa virtual y sugerencias
 # Módulo: [Despensa virtual y sugerencias]
 
 
@@ -8,6 +9,11 @@
 
 ## 👨‍💻 Integrantes del Equipo
 
+### [Verónica Ciro Naranjo] - [Desarrollador]
+- **Experiencia:Estudiante de asistente en desarrollo de software** ...
+- **Capacidades: disposición para aprender** ...
+- **Contacto / Redes:celular: ** celular 3107520960
+                     IG lileblu__...
 ### [Catalina Lombana Osorio] - [desarrollador]
 - **Experiencia:** estudiante de asistente de desarrollo de software.
 - **Capacidades:** trabajo en equipo, trabajo bajo presión, disposición para aprender.
